@@ -2,7 +2,10 @@
   <image src="https://github.com/rafaelmfer/rafaelmfer/blob/main/ANDROID%20DEVELOPER.png?raw=true"/>
 </p>
 <p align="center">
-🚀 Android | Kotlin & Java | Kotlin Multiplataform Mobile EM BREVE 🚀 
+🚀 Senior Mobile Developer | Senior Software Engineer 🚀 
+</p>
+<p align="center">
+🚀 Kotlin, Java, HTML, CSS, JavaScript, TailwindCSS, React, ReactNative, Firebase, Node, Espress, MongoDB 🚀 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaeldemelloferreira/" alt="LinkedIn">
