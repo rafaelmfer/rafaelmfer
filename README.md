@@ -64,6 +64,6 @@
 
 ###
 <div>
-<img align="right" height="200" src="https://www.digisailor.com/images/service/mobile_app_development.gif"  />
-<img align="left" width="750" height="200" src="https://raw.githubusercontent.com/rafaelmfer/rafaelmfer/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://www.digisailor.com/images/service/mobile_app_development.gif"  />
+<img align="left" width="650" height="200" src="https://raw.githubusercontent.com/rafaelmfer/rafaelmfer/output/snake.svg" alt="Snake animation" />
 </div>
